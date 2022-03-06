@@ -1,7 +1,10 @@
 {
 	"name": "my-nextjs-starter-kit",
-	"version": "0.1.0",
-	"private": true,
+	"version": "1.0.0",
+	"description": "Personal Next.js starter kit.",
+	"private": false,
+	"author": "Lucas de França",
+	"license": "MIT",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
